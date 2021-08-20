@@ -6,6 +6,7 @@ Steps to activate:
 
 1. Copy the script in a text file.
 2. Save the script file with '.bat' extension.
+3. Disable the windows firewall and disable the antivirus if any.
 3. Run the program as administrator.
 4. Sit back and Relax.
 ```
